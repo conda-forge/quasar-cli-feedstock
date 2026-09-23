@@ -1,5 +1,5 @@
 context:
-  version: "5.0.8"
+  version: "5.0.9"
 
 package:
   name: quasar-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@quasar/cli/-/cli-${{ version }}.tgz
-  sha256: ad5c61a03b04b2c19d2ea754c8f3bddda23451a02540e99ee1026a2208291456
+  sha256: 12621501db19dc25f5272da5059e0a9eea61492b1936f3b898b889626d980dfa
 
 build:
   number: 0
